@@ -74,8 +74,10 @@ cd chat-server-app
 ## Screenshots
 
 1. **Login Window**  
-   ![Login Window](path/to/login_window.png)  
+   ![Login Window](https://github.com/Nazeemahmad13/Chat-Server/blob/main/Login%20WIndow.png)
   
 2. **Chat Window**  
-   ![Chat Window](path/to/chat_window.png)  
+   ![Chat Window](https://github.com/Nazeemahmad13/Chat-Server/blob/main/Message%20Broadcasting%20of%20Logged%20in%20Users.png)
+
+
   
